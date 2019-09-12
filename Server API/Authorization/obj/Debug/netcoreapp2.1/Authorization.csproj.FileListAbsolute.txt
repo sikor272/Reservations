@@ -1,0 +1,12 @@
+C:\Users\Dawid\source\repos\Server\Authorization\bin\Debug\netcoreapp2.1\Authorization.deps.json
+C:\Users\Dawid\source\repos\Server\Authorization\bin\Debug\netcoreapp2.1\Authorization.dll
+C:\Users\Dawid\source\repos\Server\Authorization\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Users\Dawid\source\repos\Server\Authorization\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\Users\Dawid\source\repos\Server\Authorization\obj\Debug\netcoreapp2.1\Authorization.csprojAssemblyReference.cache
+C:\Users\Dawid\source\repos\Server\Authorization\obj\Debug\netcoreapp2.1\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\Server\Authorization\obj\Debug\netcoreapp2.1\Authorization.AssemblyInfoInputs.cache
+C:\Users\Dawid\source\repos\Server\Authorization\obj\Debug\netcoreapp2.1\Authorization.AssemblyInfo.cs
+C:\Users\Dawid\source\repos\Server\Authorization\obj\Debug\netcoreapp2.1\Authorization.csproj.CopyComplete
+C:\Users\Dawid\source\repos\Server\Authorization\bin\Debug\netcoreapp2.1\Authorization.pdb
+C:\Users\Dawid\source\repos\Server\Authorization\obj\Debug\netcoreapp2.1\Authorization.dll
+C:\Users\Dawid\source\repos\Server\Authorization\obj\Debug\netcoreapp2.1\Authorization.pdb

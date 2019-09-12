@@ -1,0 +1,9 @@
+C:\Users\Dawid\source\repos\Server\Entities\bin\Debug\netcoreapp2.1\Entities.deps.json
+C:\Users\Dawid\source\repos\Server\Entities\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Users\Dawid\source\repos\Server\Entities\obj\Debug\netcoreapp2.1\Entities.csprojAssemblyReference.cache
+C:\Users\Dawid\source\repos\Server\Entities\obj\Debug\netcoreapp2.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\Server\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Dawid\source\repos\Server\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfo.cs
+C:\Users\Dawid\source\repos\Server\Entities\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\Users\Dawid\source\repos\Server\Entities\obj\Debug\netcoreapp2.1\Entities.dll
+C:\Users\Dawid\source\repos\Server\Entities\obj\Debug\netcoreapp2.1\Entities.pdb

@@ -1,0 +1,12 @@
+C:\Users\Dawid\source\repos\Client\DemoLibrary\bin\Debug\DemoLibrary.dll.config
+C:\Users\Dawid\source\repos\Client\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\Dawid\source\repos\Client\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\Dawid\source\repos\Client\DemoLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dawid\source\repos\Client\DemoLibrary\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Dawid\source\repos\Client\DemoLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dawid\source\repos\Client\DemoLibrary\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Dawid\source\repos\Client\DemoLibrary\obj\Debug\ApiControl.csprojAssemblyReference.cache
+C:\Users\Dawid\source\repos\Client\DemoLibrary\obj\Debug\ApiControl.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\Client\DemoLibrary\obj\Debug\ApiControl.csproj.CopyComplete
+C:\Users\Dawid\source\repos\Client\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\Dawid\source\repos\Client\DemoLibrary\obj\Debug\DemoLibrary.pdb

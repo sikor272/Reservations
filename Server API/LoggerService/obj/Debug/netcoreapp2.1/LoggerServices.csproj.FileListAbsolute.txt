@@ -1,0 +1,14 @@
+C:\Users\Dawid\source\repos\Server\LoggerService\bin\Debug\netcoreapp2.1\Contracts.dll
+C:\Users\Dawid\source\repos\Server\LoggerService\obj\Debug\netcoreapp2.1\LoggerServices.csprojAssemblyReference.cache
+C:\Users\Dawid\source\repos\Server\LoggerService\obj\Debug\netcoreapp2.1\LoggerServices.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\Server\LoggerService\obj\Debug\netcoreapp2.1\LoggerServices.AssemblyInfoInputs.cache
+C:\Users\Dawid\source\repos\Server\LoggerService\obj\Debug\netcoreapp2.1\LoggerServices.AssemblyInfo.cs
+C:\Users\Dawid\source\repos\Server\LoggerService\bin\Debug\netcoreapp2.1\LoggerServices.deps.json
+C:\Users\Dawid\source\repos\Server\LoggerService\bin\Debug\netcoreapp2.1\LoggerServices.dll
+C:\Users\Dawid\source\repos\Server\LoggerService\bin\Debug\netcoreapp2.1\LoggerServices.pdb
+C:\Users\Dawid\source\repos\Server\LoggerService\bin\Debug\netcoreapp2.1\Contracts.pdb
+C:\Users\Dawid\source\repos\Server\LoggerService\obj\Debug\netcoreapp2.1\LoggerServices.csproj.CopyComplete
+C:\Users\Dawid\source\repos\Server\LoggerService\obj\Debug\netcoreapp2.1\LoggerServices.dll
+C:\Users\Dawid\source\repos\Server\LoggerService\obj\Debug\netcoreapp2.1\LoggerServices.pdb
+C:\Users\Dawid\source\repos\Server\LoggerService\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Users\Dawid\source\repos\Server\LoggerService\bin\Debug\netcoreapp2.1\Entities.pdb

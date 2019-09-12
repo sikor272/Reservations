@@ -1,0 +1,6 @@
+C:\Users\Dawid\source\repos\Server\LoggerService\bin\Debug\netcoreapp2.1\LoggerService.deps.json
+C:\Users\Dawid\source\repos\Server\LoggerService\bin\Debug\netcoreapp2.1\LoggerService.dll
+C:\Users\Dawid\source\repos\Server\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.csprojAssemblyReference.cache
+C:\Users\Dawid\source\repos\Server\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\Server\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\Dawid\source\repos\Server\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.AssemblyInfo.cs
